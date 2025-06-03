@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Paullo B\\Desktop\\jogo-da-cobrinha\\SnakeGame\\SnakeGame.csproj": {}
+    "C:\\Users\\Paullo B\\Desktop\\jogo-da-cobrinha\\SnakeGame\\SnakeGame.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Paullo B\\Desktop\\jogo-da-cobrinha\\SnakeGame\\SnakeGame.csproj": {
+    "C:\\Users\\Paullo B\\Desktop\\jogo-da-cobrinha\\SnakeGame\\SnakeGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Paullo B\\Desktop\\jogo-da-cobrinha\\SnakeGame\\SnakeGame.csproj",
+        "projectUniqueName": "C:\\Users\\Paullo B\\Desktop\\jogo-da-cobrinha\\SnakeGame\\SnakeGame.csproj",
         "projectName": "SnakeGame",
-        "projectPath": "c:\\Users\\Paullo B\\Desktop\\jogo-da-cobrinha\\SnakeGame\\SnakeGame.csproj",
+        "projectPath": "C:\\Users\\Paullo B\\Desktop\\jogo-da-cobrinha\\SnakeGame\\SnakeGame.csproj",
         "packagesPath": "C:\\Users\\Paullo B\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Paullo B\\Desktop\\jogo-da-cobrinha\\SnakeGame\\obj\\",
+        "outputPath": "C:\\Users\\Paullo B\\Desktop\\jogo-da-cobrinha\\SnakeGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Paullo B\\AppData\\Roaming\\NuGet\\NuGet.Config"
