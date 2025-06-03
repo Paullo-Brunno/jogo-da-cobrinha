@@ -1,0 +1,14 @@
+c:\Users\Paullo B\Desktop\jogo-da-cobrinha\SnakeGame\bin\Debug\net9.0\SnakeGame.exe
+c:\Users\Paullo B\Desktop\jogo-da-cobrinha\SnakeGame\bin\Debug\net9.0\SnakeGame.deps.json
+c:\Users\Paullo B\Desktop\jogo-da-cobrinha\SnakeGame\bin\Debug\net9.0\SnakeGame.runtimeconfig.json
+c:\Users\Paullo B\Desktop\jogo-da-cobrinha\SnakeGame\bin\Debug\net9.0\SnakeGame.dll
+c:\Users\Paullo B\Desktop\jogo-da-cobrinha\SnakeGame\bin\Debug\net9.0\SnakeGame.pdb
+c:\Users\Paullo B\Desktop\jogo-da-cobrinha\SnakeGame\obj\Debug\net9.0\SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Paullo B\Desktop\jogo-da-cobrinha\SnakeGame\obj\Debug\net9.0\SnakeGame.AssemblyInfoInputs.cache
+c:\Users\Paullo B\Desktop\jogo-da-cobrinha\SnakeGame\obj\Debug\net9.0\SnakeGame.AssemblyInfo.cs
+c:\Users\Paullo B\Desktop\jogo-da-cobrinha\SnakeGame\obj\Debug\net9.0\SnakeGame.csproj.CoreCompileInputs.cache
+c:\Users\Paullo B\Desktop\jogo-da-cobrinha\SnakeGame\obj\Debug\net9.0\SnakeGame.dll
+c:\Users\Paullo B\Desktop\jogo-da-cobrinha\SnakeGame\obj\Debug\net9.0\refint\SnakeGame.dll
+c:\Users\Paullo B\Desktop\jogo-da-cobrinha\SnakeGame\obj\Debug\net9.0\SnakeGame.pdb
+c:\Users\Paullo B\Desktop\jogo-da-cobrinha\SnakeGame\obj\Debug\net9.0\SnakeGame.genruntimeconfig.cache
+c:\Users\Paullo B\Desktop\jogo-da-cobrinha\SnakeGame\obj\Debug\net9.0\ref\SnakeGame.dll
