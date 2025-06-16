@@ -26,9 +26,14 @@ class Program
             new Point(9, 10), // corpo da cobrinha
             new Point(8, 10)
         };
-
+        //direçao da cobrinha direita e esquerda
         int dx = 1;
         int dy = 0;
+
+        Random random = new Random();   //adiciona comida e score 
+        Point food = new Point(random.Next( 0 , Console.WindowWidth), random.Next( 1 , Console.WindowHeight));
+        int score = 0;
+
         while (true)
         {
             if (Console.KeyAvailable)
@@ -55,10 +60,24 @@ class Program
             Point head = snake[0];
             Point newHead = new Point(head.X + dx, head.Y + dy);
 
-            snake.Insert(0, newHead);
-            snake.RemoveAt(snake.Count - 1);
+            if (newHead.X == food.X && newHead.Y == food.Y)
+            {
+                snake.Insert(0, newHead); // aumenta a cobrinha ao comer a comida
+                score++;
 
+                food = new Point(random.Next(0, Console.WindowWidth), random.Next(1, Console.WindowHeight)); //gera nova comida 
+            }
+            else
+            {
+                snake.Insert(0, newHead);  //move a cobrinha
+                snake.RemoveAt(snake.Count - 1);
+            
+            }
             Console.Clear();
+
+            Console.SetCursorPosition(0, 0);
+            Console.Write($"Score: {score}");
+            
             // desenha a cobrinha 
             foreach (Point part in snake)
             {
@@ -68,6 +87,10 @@ class Program
                     Console.SetCursorPosition(part.X, part.Y);
                     Console.Write("O"); //cabeça da cobrinha la ele
                 }
+
+                Console.SetCursorPosition(food.X, food.Y);
+                Console.Write("@");  //simbolo da comida
+
             }
 
             Thread.Sleep(200); // velocidade de movimento 
